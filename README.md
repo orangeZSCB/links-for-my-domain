@@ -30,4 +30,4 @@ Slogan：Enjoy freedom.
 上述操作完成后，等待合并即可。
 当你的 Pull Request 被通过、合并后，你的网站将在半个小时内展示在我的 [友链页面](https://links.orangestd.cn)。
 
-> 灵感源于 [SukkaW/Friends](https://github.com/SukkaW/Friends) / [ChrAlpha/Friends](https://github.com/ChrAlpha/Friends) / [Github: s-complex](https://github.com/s-complex)。
+> 灵感源于 [SukkaW/Friends](https://github.com/SukkaW/Friends) / [ChrAlpha/Friends](https://github.com/ChrAlpha/Friends) / [Github: s-complex](https://github.com/s-complex)，橙子Orange 保留一切最终解释权。
